@@ -6,11 +6,10 @@ programa {
    leia(numero)
 
    numero% 2 == 0
-
    se(numero% 2==0) {
-   escreva("esse numero é par")
+   escreva("esse numero Ã© par")
    }senao{
-   escreva("esse numero é impar")
+   escreva("esse numero Ã© impar")
    } 
 
 
