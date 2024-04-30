@@ -12,7 +12,5 @@ programa {
    escreva("esse numero é impar")
    } 
 
-
-   
   }
 }
